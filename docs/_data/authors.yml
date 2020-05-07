@@ -21,3 +21,15 @@ huan:
     #   icon: "fas fa-fw fa-link"
     #   url: "https://www.zixia.net"
 
+ershing:
+  name        : "ershing"
+  bio         : "life"
+  avatar      : "https://avatars1.githubusercontent.com/u/24764598?s=80"
+  links:
+    - label: "GitHub"
+      icon: ""
+      url: "https://github.com/ershing"
+    - label: "blog"
+      icon: ""
+      url: "http://www.ershing.cn"
+
